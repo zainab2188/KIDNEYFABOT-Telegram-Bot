@@ -38,12 +38,11 @@ The Python implementation was created with the assistance of AI tools. I used AI
 Project Structure
 
 KIDNEYFABOT/
-│
-├── renal.py
-├── README.md
-├── requirements.txt
-├── .gitignore
-└── guide.pdf
+renal.py
+README.md
+requirements.txt
+.gitignore
+guide.pdf
 
 Educational Scope
 
