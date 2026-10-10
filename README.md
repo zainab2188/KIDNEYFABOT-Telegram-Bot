@@ -1,50 +1,80 @@
-KIDNEYFABOT — Kidney Health Education Telegram Bot
+# KIDNEYFABOT — Kidney Health Education Telegram Bot
 
 KIDNEYFABOT is a student-built Telegram bot created as part of a kidney health awareness project.
 
-The project started with an Arabic educational booklet titled "الفشل الكلوي والديلزة", and the bot was created to make some of the booklet's educational content more interactive.
+The project started with an Arabic educational booklet titled **"الفشل الكلوي والديلزة"**. The bot was created to make some of the booklet's educational content more interactive.
 
-Project Idea
+## Project Idea
 
-The aim of the project is to present basic kidney health and dialysis-related educational information through a simple Telegram interface.
+The aim of this project is to present basic kidney health and dialysis-related educational information through a simple Telegram interface.
 
-The project is educational and was created as a learning project to explore how technology can be used to present health information in a more interactive way.
+This is a learning project exploring how technology can be used to present health information in a more interactive way.
 
-Features
+## Features
 
 - Main menu with interactive buttons
 - Kidney health educational information
 - Educational food information
-- Simple weight-difference calculator
+- Simple weight-difference calculation
 - Dialysis session checklist
 - True/False quiz with 10 questions
 - Quiz score
 - Google Calendar link for scheduling dialysis sessions
-- Access to the accompanying booklet
+- Access to the accompanying educational booklet
 
-Technology
+## Screenshots
+
+### Main Menu
+
+![KIDNEYFABOT Main Menu](documentation/main_menu.png)
+
+### Kidney Health Information
+
+![Kidney Health Information](documentation/health_information.png)
+
+### Educational Food Information
+
+![Educational Food Information](documentation/food_information.png)
+
+### Interactive Quiz
+
+![KIDNEYFABOT Quiz](documentation/quiz.png)
+
+### Dialysis Session Checklist
+
+![Dialysis Session Checklist](documentation/checklist.png)
+
+## Technology
 
 - Python
 - Telegram Bot API
 - pyTelegramBotAPI
 - python-dotenv
 
-How the Project Was Developed
+## How the Project Was Developed
 
-I designed the idea, selected and organized the educational content, created the booklet "الفشل الكلوي والديلزة", planned the bot features and user flow, and prepared the visual content.
+I designed the project idea, selected and organized the educational content, created the Arabic booklet "الفشل الكلوي والديلزة", planned the bot features and user flow, and prepared the visual content.
 
 The Python implementation was created with the assistance of AI tools. I used AI-assisted coding to implement the bot and worked on testing and organizing the resulting code.
 
-Project Structure
+## Project Structure
 
-KIDNEYFABOT/
-renal.py
-README.md
-requirements.txt
-.gitignore
-guide.pdf
+```text
+KIDNEYFABOT-Telegram-Bot/
+├── documentation/
+│   ├── main_menu.png
+│   ├── health_information.png
+│   ├── food_information.png
+│   ├── quiz.png
+│   └── checklist.png
+├── renal.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── guide.pdf
+```
 
-Educational Scope
+## Educational Scope
 
 This bot is an educational prototype. It is not intended to:
 
@@ -55,17 +85,17 @@ This bot is an educational prototype. It is not intended to:
 
 The information provided by the bot is for general educational purposes. Users should consult qualified healthcare professionals for personal medical or dietary advice.
 
-Privacy
+## Privacy
 
-The current version does not use a persistent database or store user medical records.
+The bot does not intentionally maintain a database of users' medical records.
 
-Some information used during an interaction is temporarily held in memory while the bot is running.
+Some information used during an interaction may be temporarily held in memory while the bot is running.
 
 Users should avoid entering sensitive personal or medical information.
 
-Limitations
+## Limitations
 
-This is a student learning project and not a production healthcare application.
+This is a student learning project, not a production healthcare application.
 
 The current version does not include:
 
@@ -75,7 +105,7 @@ The current version does not include:
 - Clinical decision support
 - AI or machine-learning features
 
-What I Learned
+## What I Learned
 
 Through this project, I explored:
 
@@ -89,16 +119,16 @@ Through this project, I explored:
 - Basic testing and debugging
 - Designing an interactive educational user flow
 
-Related Booklet
+## Related Booklet
 
 The bot is connected to my Arabic kidney health awareness booklet:
 
-الفشل الكلوي والديلزة
+**[Kidney Health Awareness Booklet — الفشل الكلوي والديلزة](https://drive.google.com/file/d/1Zy2a8lIxVHfJxo3_FdH4fj0lARHPmLrY/view?usp=drivesdk)**
 
 The booklet and the Telegram bot are two parts of the same project:
 
-Educational Booklet → Interactive Telegram Bot
+**Educational Booklet → Interactive Telegram Bot**
 
-Disclaimer
+## Disclaimer
 
 KIDNEYFABOT is an educational project and does not provide medical diagnosis, treatment, or personalized medical advice.
