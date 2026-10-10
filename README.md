@@ -26,7 +26,7 @@ This is a learning project exploring how technology can be used to present healt
 
 ### Main Menu
 
-![KIDNEYFABOT Main Menu](<img width="1078" height="2261" alt="main_menu" src="https://github.com/user-attachments/assets/5c011b2f-088c-46de-8434-3ec09a09d04e" />
+![KIDNEYFABOT Main Menu](main_menu.jpg
 )
 
 ### Kidney Health Information
