@@ -26,23 +26,28 @@ This is a learning project exploring how technology can be used to present healt
 
 ### Main Menu
 
-![KIDNEYFABOT Main Menu](documentation/main_menu.png)
+![KIDNEYFABOT Main Menu](<img width="1078" height="2261" alt="main_menu" src="https://github.com/user-attachments/assets/5c011b2f-088c-46de-8434-3ec09a09d04e" />
+)
 
 ### Kidney Health Information
 
-![Kidney Health Information](documentation/health_information.png)
+![Kidney Health Information](<img width="1031" height="1442" alt="health_information" src="https://github.com/user-attachments/assets/158f55ad-cee1-44fb-b5cb-874fba75f3a3" />
+)
 
 ### Educational Food Information
 
-![Educational Food Information](documentation/food_information.png)
+![Educational Food Information](<img width="1078" height="1868" alt="food_information" src="https://github.com/user-attachments/assets/78613fe1-a243-4f73-aa51-1e9f2574e0d6" />
+)
 
 ### Interactive Quiz
 
-![KIDNEYFABOT Quiz](documentation/quiz.png)
+![KIDNEYFABOT Quiz](<img width="1080" height="2171" alt="quiz" src="https://github.com/user-attachments/assets/9953dfcd-3112-49ba-ab73-a22143d247d0" />
+)
 
 ### Dialysis Session Checklist
 
-![Dialysis Session Checklist](documentation/checklist.png)
+![Dialysis Session Checklist](<img width="1080" height="1536" alt="checklist" src="https://github.com/user-attachments/assets/9dc0e695-4751-4a38-ba80-48e2b9349e89" />
+)
 
 ## Technology
 
