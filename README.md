@@ -35,18 +35,15 @@ This is a learning project exploring how technology can be used to present healt
 
 ### Educational Food Information
 
-![Educational Food Information](<img width="1078" height="1868" alt="food_information" src="https://github.com/user-attachments/assets/78613fe1-a243-4f73-aa51-1e9f2574e0d6" />
-)
+![Educational Food Information](food_information.jpg)
 
 ### Interactive Quiz
 
-![KIDNEYFABOT Quiz](<img width="1080" height="2171" alt="quiz" src="https://github.com/user-attachments/assets/9953dfcd-3112-49ba-ab73-a22143d247d0" />
-)
+![KIDNEYFABOT Quiz](quiz.jpg)
 
 ### Dialysis Session Checklist
 
-![Dialysis Session Checklist](<img width="1080" height="1536" alt="checklist" src="https://github.com/user-attachments/assets/9dc0e695-4751-4a38-ba80-48e2b9349e89" />
-)
+![Dialysis Session Checklist](checklist.jpg)
 
 ## Technology
 
