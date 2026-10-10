@@ -31,8 +31,7 @@ This is a learning project exploring how technology can be used to present healt
 
 ### Kidney Health Information
 
-![Kidney Health Information](<img width="1031" height="1442" alt="health_information" src="https://github.com/user-attachments/assets/158f55ad-cee1-44fb-b5cb-874fba75f3a3" />
-)
+![Kidney Health Information](health_information.jpg)
 
 ### Educational Food Information
 
