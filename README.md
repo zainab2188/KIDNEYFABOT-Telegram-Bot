@@ -62,17 +62,15 @@ The Python implementation was created with the assistance of AI tools. I used AI
 
 ```text
 KIDNEYFABOT-Telegram-Bot/
-├── documentation/
-│   ├── main_menu.png
-│   ├── health_information.png
-│   ├── food_information.png
-│   ├── quiz.png
-│   └── checklist.png
 ├── renal.py
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-└── guide.pdf
+├── guide.pdf
+├── main_menu.jpg
+├── health_information.jpg
+├── quiz.jpg
+└── checklist.jpg
 ```
 
 ## Educational Scope
