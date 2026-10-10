@@ -1,5 +1,2 @@
-tensorflow
-gradio
-pandas
-numpy
-scikit-learn
+pyTelegramBotAPI
+python-dotenv
